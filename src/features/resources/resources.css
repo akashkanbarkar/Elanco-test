@@ -1,0 +1,13 @@
+.header-container{
+    display: flex;
+    justify-content: flex-start; 
+    column-gap: 2rem;
+}
+.header-container button:last-child {
+    margin-left: auto;
+  }
+.body-container {
+    display: flex;
+    flex-direction: column;
+    row-gap: 2rem;
+}

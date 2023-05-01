@@ -1,0 +1,1 @@
+export const heading= `Elanco has built many of its services from scratch following industry best practices and leveraging software-defined solutions wherever possible. One service is Elanco’s Cloud Environment, which can be interacted with to produce a rich data extract to help us understand areas of improvement.`
